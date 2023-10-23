@@ -1,0 +1,23 @@
+#container{
+    width: 100%;
+}
+#titulo {
+    border-bottom: 2px solid black;
+    display: block;
+    text-align: center;
+    
+}
+#border {
+    border: 2px solid black;
+    padding: 12px;
+    width: 300px;
+    border-radius: 20px;
+}
+.professor{
+    font-size: 25px;
+    text-align: center;
+}
+.ocupacao{
+    font-size: 20px;
+    text-align: center;
+}
